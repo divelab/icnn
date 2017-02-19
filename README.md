@@ -8,7 +8,7 @@ In seg_cremi, there are two folders: baseline and newmodel. You can run train.sh
 
 ## Kernel Rotation operation:
 The kernels in convolutional layers are rotated at eight angles:
-![drawing](./assets/KernelRotation.png =250x)
+![drawing](./assets/KernelRotation.png)
 
 ## Kernel Rotation operation:
 The kernels in convolutional layers are flipped both horizontally and vertically:
