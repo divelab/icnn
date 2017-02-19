@@ -1,0 +1,3 @@
+[submodule "caffe_3d"]
+	path = caffe_3d
+	url = git@github.com:xiao9aba2008/caffe_3d.git
