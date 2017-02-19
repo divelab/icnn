@@ -1,0 +1,1 @@
+/tempspace/tzeng/cremi/data/train/cremi3D_A_seg_train_v1.h5
