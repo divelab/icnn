@@ -2,7 +2,7 @@
 
 Caffe implementation of Rotation and Flip Invariant Convolutional Layer is implemented in caffe_3d @ 9686972.
 
-![model](./assets/KernelFlip.pdf)
+![model](./assets/KernelFlip.png)
 
 1. PixelCNN
   - Masked Convolution (A, B)
