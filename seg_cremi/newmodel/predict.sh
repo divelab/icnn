@@ -6,4 +6,3 @@ $caffe_path/predict_seg_new.bin \
     --predict=results/cremi_test_A.h5 \
     --shift_axis=2 \
     --shift_stride=1
-python predict.py > predict.log
