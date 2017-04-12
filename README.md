@@ -35,4 +35,4 @@ The kernels in convolutional layers are flipped both horizontally and vertically
 
 ## Author
 
-[Hongyang Gao](http://eecs.wsu.edu/~hgao/)
+[Hongyang Gao](http://eecs.wsu.edu/~hgao/) [Shuiwang Ji](http://www.eecs.wsu.edu/~sji/)
